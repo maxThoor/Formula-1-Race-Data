@@ -1,0 +1,421 @@
+date_race;GP_name;round;circuitId;raceId;resultId;constructorId;constructor_name;constructor_nationality;driverId;code;driver_forename;driver_surname;number;driver_nationality;grid_position;final_position;win;points_scored;total_time_laps;fastestLapTime;rank_fastestLapTime;fastestLapSpeed;statusId;status
+2019-03-17;Australian Grand Prix;1;1;1010;24206;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;3;4;0;12.0;+57.109;1:27.954;8.0;217.054;1;Finished
+2019-03-17;Australian Grand Prix;1;1;1010;24213;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;17;11;0;0.0;;1:27.229;5.0;218.858;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24217;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;14;15;0;0.0;;1:28.479;14.0;215.766;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24221;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;12;19;0;0.0;;1:29.848;19.0;212.47799999999998;137;Damage
+2019-03-17;Australian Grand Prix;1;1;1010;24219;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;20;17;0;0.0;;1:29.284;18.0;213.821;13;+3 Laps
+2019-03-17;Australian Grand Prix;1;1;1010;24204;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;1;2;0;18.0;+20.886;1:26.057;2.0;221.83900000000003;1;Finished
+2019-03-17;Australian Grand Prix;1;1;1010;24215;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;10;13;0;0.0;;1:28.485;15.0;215.75099999999998;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24211;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;16;9;0;2.0;;1:27.568;7.0;218.011;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24210;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;9;8;0;4.0;;1:28.270;11.0;216.27700000000002;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24205;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;4;3;0;15.0;+22.520;1:26.256;3.0;221.327;1;Finished
+2019-03-17;Australian Grand Prix;1;1;1010;24216;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;13;14;0;0.0;;1:28.188;10.0;216.47799999999998;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24218;3;Williams;British;847;RUS;George;Russell;63.0;British;19;16;0;0.0;;1:28.713;17.0;215.197;12;+2 Laps
+2019-03-17;Australian Grand Prix;1;1;1010;24220;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;6;18;0;0.0;;1:28.462;13.0;215.80700000000002;36;Wheel
+2019-03-17;Australian Grand Prix;1;1;1010;24214;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;8;12;0;0.0;;1:28.555;16.0;215.581;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24203;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;2;1;1;26.0;1:25:27.325;1:25.580;1.0;223.075;1;Finished
+2019-03-17;Australian Grand Prix;1;1;1010;24212;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;15;10;0;1.0;;1:27.448;6.0;218.31;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24222;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;18;20;0;0.0;;1:30.899;20.0;210.02200000000002;5;Engine
+2019-03-17;Australian Grand Prix;1;1;1010;24209;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;11;7;0;6.0;;1:28.444;12.0;215.851;11;+1 Lap
+2019-03-17;Australian Grand Prix;1;1;1010;24207;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;5;5;0;10.0;+58.203;1:26.926;4.0;219.62099999999998;1;Finished
+2019-03-17;Australian Grand Prix;1;1;1010;24208;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;7;6;0;8.0;+1:27.156;1:28.182;9.0;216.493;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24225;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;1;3;0;16.0;+6.131;1:33.411;1.0;208.575;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24241;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;7;19;0;0.0;;1:35.586;10.0;203.829;130;Collision damage
+2019-03-31;Bahrain Grand Prix;2;3;1011;24237;3;Williams;British;847;RUS;George;Russell;63.0;British;19;15;0;0.0;;1:37.313;19.0;200.21099999999998;11;+1 Lap
+2019-03-31;Bahrain Grand Prix;2;3;1011;24235;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;6;13;0;0.0;;1:35.892;13.0;203.178;11;+1 Lap
+2019-03-31;Bahrain Grand Prix;2;3;1011;24238;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;20;16;0;0.0;;1:37.903;20.0;199.005;12;+2 Laps
+2019-03-31;Bahrain Grand Prix;2;3;1011;24231;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;12;9;0;2.0;+1:02.697;1:36.752;16.0;201.372;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24229;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;8;7;0;6.0;+47.470;1:35.589;11.0;203.822;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24240;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;10;18;0;0.0;;1:36.697;15.0;201.487;60;Out of fuel
+2019-03-31;Bahrain Grand Prix;2;3;1011;24234;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;15;12;0;0.0;;1:34.934;5.0;205.22799999999998;11;+1 Lap
+2019-03-31;Bahrain Grand Prix;2;3;1011;24230;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;13;8;0;4.0;+58.094;1:35.291;8.0;204.46;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24226;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;5;4;0;12.0;+6.408;1:35.311;9.0;204.417;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24223;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;3;1;1;25.0;1:34:21.295;1:33.528;2.0;208.31400000000002;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24227;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;2;5;0;10.0;+36.068;1:34.895;4.0;205.313;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24224;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;4;2;0;18.0;+2.980;1:34.209;3.0;206.808;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24228;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;9;6;0;8.0;+45.754;1:35.777;12.0;203.422;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24233;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;16;11;0;0.0;+1:04.599;1:35.237;7.0;204.575;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24236;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;18;14;0;0.0;;1:37.037;17.0;200.78099999999998;11;+1 Lap
+2019-03-31;Bahrain Grand Prix;2;3;1011;24232;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;14;10;0;1.0;+1:03.696;1:36.330;14.0;202.25400000000002;1;Finished
+2019-03-31;Bahrain Grand Prix;2;3;1011;24242;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;11;20;0;0.0;;1:37.262;18.0;200.31599999999997;31;Retired
+2019-03-31;Bahrain Grand Prix;2;3;1011;24239;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;17;17;0;0.0;;1:35.215;6.0;204.623;5;Engine
+2019-04-14;Chinese Grand Prix;3;17;1012;24251;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;13;9;0;2.0;;1:37.812;12.0;200.625;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24253;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;10;11;0;0.0;;1:36.873;8.0;202.57;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24248;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;6;6;0;9.0;+1:29.307;1:34.742;1.0;207.12599999999998;1;Finished
+2019-04-14;Chinese Grand Prix;3;17;1012;24256;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;14;14;0;0.0;;1:37.502;11.0;201.263;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24246;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;5;4;0;12.0;+27.627;1:36.143;6.0;204.108;1;Finished
+2019-04-14;Chinese Grand Prix;3;17;1012;24249;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;7;7;0;6.0;;1:38.632;16.0;198.957;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24252;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;0;10;0;1.0;;1:38.901;18.0;198.416;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24247;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;4;5;0;10.0;+31.276;1:34.860;3.0;206.86900000000003;1;Finished
+2019-04-14;Chinese Grand Prix;3;17;1012;24258;3;Williams;British;847;RUS;George;Russell;63.0;British;17;16;0;0.0;;1:37.283;9.0;201.71599999999998;12;+2 Laps
+2019-04-14;Chinese Grand Prix;3;17;1012;24255;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;9;13;0;0.0;;1:37.471;10.0;201.327;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24254;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;16;12;0;0.0;;1:36.678;7.0;202.97799999999998;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24243;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;1;1;25.0;1:32:06.350;1:35.892;5.0;204.642;1;Finished
+2019-04-14;Chinese Grand Prix;3;17;1012;24260;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;15;18;0;0.0;;1:38.346;15.0;199.53599999999997;4;Collision
+2019-04-14;Chinese Grand Prix;3;17;1012;24262;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;8;20;0;0.0;;1:39.677;19.0;196.87099999999998;131;Power Unit
+2019-04-14;Chinese Grand Prix;3;17;1012;24259;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;18;17;0;0.0;;1:39.772;20.0;196.68400000000003;12;+2 Laps
+2019-04-14;Chinese Grand Prix;3;17;1012;24245;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;3;3;0;15.0;+13.774;1:34.836;2.0;206.921;1;Finished
+2019-04-14;Chinese Grand Prix;3;17;1012;24250;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;12;8;0;4.0;;1:38.702;17.0;198.81599999999997;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24257;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;19;15;0;0.0;;1:38.048;14.0;200.142;11;+1 Lap
+2019-04-14;Chinese Grand Prix;3;17;1012;24244;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;1;2;0;18.0;+6.552;1:34.872;4.0;206.842;1;Finished
+2019-04-14;Chinese Grand Prix;3;17;1012;24261;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;11;19;0;0.0;;1:37.975;13.0;200.291;4;Collision
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24281;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;6;19;0;0.0;;1:47.681;18.0;200.692;4;Collision
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24272;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;0;10;0;1.0;;1:46.479;13.0;202.958;11;+1 Lap
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24278;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;0;16;0;0.0;;1:47.709;19.0;200.64;12;+2 Laps
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24266;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;4;4;0;12.0;+17.493;1:44.794;5.0;206.22099999999998;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24271;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;13;9;0;2.0;+1:43.816;1:46.009;12.0;203.858;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24274;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;17;12;0;0.0;;1:45.969;11.0;203.935;11;+1 Lap
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24275;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;12;13;0;0.0;;1:46.682;14.0;202.572;11;+1 Lap
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24268;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;5;6;0;8.0;+1:16.416;1:45.524;7.0;204.795;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24264;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;2;0;18.0;+1.524;1:44.166;3.0;207.465;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24273;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;11;11;0;0.0;;1:45.754;9.0;204.34900000000002;11;+1 Lap
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24270;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;7;8;0;4.0;+1:40.268;1:45.394;6.0;205.047;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24282;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;10;20;0;0.0;;1:46.767;15.0;202.41;4;Collision
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24263;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;1;1;1;25.0;1:31:52.942;1:44.024;2.0;207.748;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24269;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;9;7;0;6.0;+1:23.826;1:45.807;10.0;204.247;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24267;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;8;5;0;11.0;+1:09.107;1:43.009;1.0;209.795;1;Finished
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24280;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;14;18;0;0.0;;1:48.517;20.0;199.146;23;Brakes
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24277;3;Williams;British;847;RUS;George;Russell;63.0;British;16;15;0;0.0;;1:47.251;16.0;201.497;12;+2 Laps
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24276;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;15;14;0;0.0;;1:47.407;17.0;201.204;11;+1 Lap
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24279;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;0;17;0;0.0;;1:45.712;8.0;204.43;7;Transmission
+2019-04-28;Azerbaijan Grand Prix;4;73;1013;24265;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;3;3;0;15.0;+11.739;1:44.629;4.0;206.546;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24294;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;13;12;0;0.0;+36.758;1:20.615;7.0;207.87599999999998;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24289;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;8;7;0;6.0;+28.159;1:20.770;9.0;207.47799999999998;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24284;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;1;2;0;18.0;+4.074;1:18.737;2.0;212.835;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24290;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;12;8;0;4.0;+32.342;1:20.859;10.0;207.24900000000002;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24296;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;14;14;0;0.0;+41.803;1:21.382;14.0;205.917;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24302;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;10;20;0;0.0;;1:22.561;18.0;202.977;4;Collision
+2019-05-12;Spanish Grand Prix;5;4;1014;24300;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;17;18;0;0.0;;1:23.202;19.0;201.41299999999998;11;+1 Lap
+2019-05-12;Spanish Grand Prix;5;4;1014;24301;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;16;19;0;0.0;;1:23.226;20.0;201.355;4;Collision
+2019-05-12;Spanish Grand Prix;5;4;1014;24291;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;9;9;0;2.0;+33.056;1:20.726;8.0;207.59099999999998;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24283;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;1;1;26.0;1:35:50.443;1:18.492;1.0;213.49900000000002;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24292;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;7;10;0;1.0;+34.641;1:21.057;12.0;206.743;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24298;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;18;16;0;0.0;+47.691;1:21.833;15.0;204.782;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24297;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;15;15;0;0.0;+46.877;1:21.859;16.0;204.717;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24288;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;6;6;0;8.0;+19.576;1:20.536;6.0;208.08;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24285;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;4;3;0;15.0;+7.679;1:19.769;3.0;210.081;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24287;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;5;5;0;10.0;+13.361;1:20.002;5.0;209.46900000000002;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24295;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;0;13;0;0.0;+39.241;1:21.282;13.0;206.171;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24299;3;Williams;British;847;RUS;George;Russell;63.0;British;19;17;0;0.0;;1:22.382;17.0;203.418;11;+1 Lap
+2019-05-12;Spanish Grand Prix;5;4;1014;24293;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;11;11;0;0.0;+35.445;1:21.028;11.0;206.817;1;Finished
+2019-05-12;Spanish Grand Prix;5;4;1014;24286;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;3;4;0;12.0;+9.167;1:19.820;4.0;209.947;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24306;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;1;1;1;25.0;1:43:28.437;1:16.167;6.0;157.721;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24322;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;14;17;0;0.0;;1:16.436;14.0;157.166;11;+1 Lap
+2019-05-26;Monaco Grand Prix;6;6;1015;24324;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;18;19;0;0.0;;1:16.299;11.0;157.44799999999998;12;+2 Laps
+2019-05-26;Monaco Grand Prix;6;6;1015;24317;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;5;12;0;0.0;;1:16.992;17.0;156.031;11;+1 Lap
+2019-05-26;Monaco Grand Prix;6;6;1015;24318;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;16;13;0;0.0;;1:16.613;15.0;156.803;11;+1 Lap
+2019-05-26;Monaco Grand Prix;6;6;1015;24312;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;7;7;0;6.0;+54.574;1:16.288;10.0;157.471;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24309;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;3;4;0;12.0;+5.537;1:16.229;7.0;157.593;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24321;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;17;16;0;0.0;;1:16.379;12.0;157.284;11;+1 Lap
+2019-05-26;Monaco Grand Prix;6;6;1015;24320;3;Williams;British;847;RUS;George;Russell;63.0;British;19;15;0;0.0;;1:17.038;18.0;155.938;11;+1 Lap
+2019-05-26;Monaco Grand Prix;6;6;1015;24310;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;8;5;0;11.0;+9.946;1:14.279;1.0;161.73;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24313;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;10;8;0;4.0;+55.200;1:15.607;3.0;158.89;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24323;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;20;18;0;0.0;;1:17.388;19.0;155.233;11;+1 Lap
+2019-05-26;Monaco Grand Prix;6;6;1015;24311;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;9;6;0;8.0;+53.454;1:15.891;5.0;158.295;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24314;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;6;9;0;2.0;+1:00.894;1:15.697;4.0;158.701;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24319;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;11;14;0;0.0;;1:16.276;8.0;157.496;11;+1 Lap
+2019-05-26;Monaco Grand Prix;6;6;1015;24316;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;12;11;0;0.0;+1:06.801;1:16.413;13.0;157.214;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24307;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;4;2;0;18.0;+2.602;1:16.277;9.0;157.494;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24315;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;13;10;0;1.0;+1:01.034;1:16.746;16.0;156.531;1;Finished
+2019-05-26;Monaco Grand Prix;6;6;1015;24325;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;15;20;0;0.0;;1:19.151;20.0;151.775;4;Collision
+2019-05-26;Monaco Grand Prix;6;6;1015;24308;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;2;3;0;15.0;+3.162;1:15.163;2.0;159.828;1;Finished
+2019-06-09;Canadian Grand Prix;7;7;1016;24328;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;3;3;0;15.0;+4.696;1:14.356;2.0;211.14;1;Finished
+2019-06-09;Canadian Grand Prix;7;7;1016;24332;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;7;7;0;6.0;;1:15.995;7.0;206.58700000000002;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24334;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;17;9;0;2.0;;1:16.043;8.0;206.456;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24331;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;4;6;0;8.0;;1:16.075;9.0;206.37;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24344;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;13;19;0;0.0;;1:17.151;16.0;203.49099999999999;130;Collision damage
+2019-06-09;Canadian Grand Prix;7;7;1016;24345;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;8;20;0;0.0;;1:18.023;20.0;201.217;22;Suspension
+2019-06-09;Canadian Grand Prix;7;7;1016;24339;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;14;14;0;0.0;;1:16.245;12.0;205.90900000000002;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24341;3;Williams;British;847;RUS;George;Russell;63.0;British;18;16;0;0.0;;1:17.241;17.0;203.25400000000002;12;+2 Laps
+2019-06-09;Canadian Grand Prix;7;7;1016;24342;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;0;17;0;0.0;;1:17.309;19.0;203.075;12;+2 Laps
+2019-06-09;Canadian Grand Prix;7;7;1016;24338;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;12;13;0;0.0;;1:16.365;14.0;205.58599999999998;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24336;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;11;11;0;0.0;;1:16.471;15.0;205.301;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24333;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;5;8;0;4.0;;1:16.157;10.0;206.14700000000002;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24343;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;19;18;0;0.0;;1:17.285;18.0;203.139;13;+3 Laps
+2019-06-09;Canadian Grand Prix;7;7;1016;24329;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;6;4;0;13.0;+51.043;1:13.078;1.0;214.833;1;Finished
+2019-06-09;Canadian Grand Prix;7;7;1016;24337;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;15;12;0;0.0;;1:16.314;13.0;205.72299999999998;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24327;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;1;2;0;18.0;+3.658;1:14.875;5.0;209.67700000000002;1;Finished
+2019-06-09;Canadian Grand Prix;7;7;1016;24335;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;10;10;0;1.0;;1:16.198;11.0;206.03599999999997;11;+1 Lap
+2019-06-09;Canadian Grand Prix;7;7;1016;24326;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;1;1;25.0;1:29:07.084;1:14.813;4.0;209.851;1;Finished
+2019-06-09;Canadian Grand Prix;7;7;1016;24330;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;9;5;0;10.0;+57.655;1:14.767;3.0;209.98;1;Finished
+2019-06-09;Canadian Grand Prix;7;7;1016;24340;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;16;15;0;0.0;;1:15.442;6.0;208.101;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24358;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;17;13;0;0.0;;1:34.924;9.0;221.558;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24365;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;16;20;0;0.0;;1:35.691;17.0;219.782;31;Retired
+2019-06-23;French Grand Prix;8;34;1017;24362;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;15;17;0;0.0;;1:35.692;18.0;219.78;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24353;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;13;8;0;4.0;;1:34.950;10.0;221.497;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24351;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;6;6;0;8.0;+1:35.462;1:34.561;6.0;222.408;1;Finished
+2019-06-23;French Grand Prix;8;34;1017;24352;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;12;7;0;6.0;;1:34.873;8.0;221.67700000000002;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24359;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;19;14;0;0.0;;1:35.225;16.0;220.857;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24357;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;14;12;0;0.0;;1:35.014;11.0;221.34799999999998;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24364;3;Williams;British;847;RUS;George;Russell;63.0;British;20;19;0;0.0;;1:35.830;19.0;219.463;12;+2 Laps
+2019-06-23;French Grand Prix;8;34;1017;24347;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;2;2;0;18.0;+18.056;1:33.586;3.0;224.725;1;Finished
+2019-06-23;French Grand Prix;8;34;1017;24363;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;18;18;0;0.0;;1:36.608;20.0;217.696;12;+2 Laps
+2019-06-23;French Grand Prix;8;34;1017;24355;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;9;10;0;1.0;;1:35.197;15.0;220.922;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24349;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;4;4;0;12.0;+34.905;1:34.162;5.0;223.351;1;Finished
+2019-06-23;French Grand Prix;8;34;1017;24360;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;11;15;0;0.0;;1:35.029;12.0;221.313;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24361;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;10;16;0;0.0;;1:35.115;13.0;221.113;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24350;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;7;5;0;11.0;+1:02.796;1:32.740;1.0;226.775;1;Finished
+2019-06-23;French Grand Prix;8;34;1017;24348;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;3;3;0;15.0;+18.985;1:33.828;4.0;224.146;1;Finished
+2019-06-23;French Grand Prix;8;34;1017;24346;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;1;1;1;25.0;1:24:31.198;1:32.764;2.0;226.717;1;Finished
+2019-06-23;French Grand Prix;8;34;1017;24356;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;8;11;0;0.0;;1:35.150;14.0;221.032;11;+1 Lap
+2019-06-23;French Grand Prix;8;34;1017;24354;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;5;9;0;2.0;;1:34.754;7.0;221.955;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24373;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;19;8;0;4.0;;1:08.117;6.0;228.207;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24378;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;15;13;0;0.0;;1:09.248;16.0;224.48;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24385;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;17;20;0;0.0;;1:10.964;20.0;219.051;13;+3 Laps
+2019-06-30;Austrian Grand Prix;9;70;1018;24380;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;18;15;0;0.0;;1:08.946;11.0;225.463;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24377;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;12;12;0;0.0;;1:08.019;4.0;228.53599999999997;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24368;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;3;3;0;15.0;+18.960;1:08.565;7.0;226.71599999999998;1;Finished
+2019-06-30;Austrian Grand Prix;9;70;1018;24383;3;Williams;British;847;RUS;George;Russell;63.0;British;0;18;0;0.0;;1:09.926;19.0;222.303;12;+2 Laps
+2019-06-30;Austrian Grand Prix;9;70;1018;24367;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;1;2;0;18.0;+2.724;1:07.994;3.0;228.62;1;Finished
+2019-06-30;Austrian Grand Prix;9;70;1018;24370;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;4;5;0;10.0;+22.805;1:08.050;5.0;228.43200000000002;1;Finished
+2019-06-30;Austrian Grand Prix;9;70;1018;24369;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;9;4;0;12.0;+19.610;1:07.676;2.0;229.69400000000002;1;Finished
+2019-06-30;Austrian Grand Prix;9;70;1018;24374;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;6;9;0;2.0;;1:09.126;15.0;224.87599999999998;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24379;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;14;14;0;0.0;;1:09.288;17.0;224.35;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24381;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;11;16;0;0.0;;1:08.987;12.0;225.329;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24382;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;16;17;0;0.0;;1:09.498;18.0;223.672;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24375;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;7;10;0;1.0;;1:09.051;13.0;225.12;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24371;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;5;6;0;8.0;;1:08.699;8.0;226.274;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24384;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;10;19;0;0.0;;1:08.903;10.0;225.604;12;+2 Laps
+2019-06-30;Austrian Grand Prix;9;70;1018;24372;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;8;7;0;6.0;;1:08.790;9.0;225.97400000000002;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24376;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;13;11;0;0.0;;1:09.061;14.0;225.08700000000002;11;+1 Lap
+2019-06-30;Austrian Grand Prix;9;70;1018;24366;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;2;1;1;26.0;1:22:01.822;1:07.475;1.0;230.378;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24387;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;1;2;0;18.0;+24.928;1:27.406;2.0;242.63299999999998;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24389;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;5;4;0;12.0;+34.692;1:29.544;8.0;236.83900000000003;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24394;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;17;9;0;2.0;+1:06.720;1:29.910;12.0;235.875;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24401;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;6;16;0;0.0;;1:28.733;3.0;239.00400000000002;11;+1 Lap
+2019-07-14;British Grand Prix;10;9;1019;24396;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;8;11;0;0.0;+1:14.281;1:29.636;10.0;236.59599999999998;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24391;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;13;6;0;8.0;+53.639;1:29.757;11.0;236.27700000000002;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24395;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;10;10;0;1.0;+1:12.733;1:29.949;13.0;235.773;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24397;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;9;12;0;0.0;+1:15.617;1:30.872;15.0;233.378;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24390;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;4;5;0;10.0;+39.458;1:29.272;4.0;237.56099999999998;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24399;3;Williams;British;847;RUS;George;Russell;63.0;British;19;14;0;0.0;;1:31.013;16.0;233.017;11;+1 Lap
+2019-07-14;British Grand Prix;10;9;1019;24403;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;11;18;0;0.0;;1:32.464;18.0;229.36;20;Spun off
+2019-07-14;British Grand Prix;10;9;1019;24404;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;14;19;0;0.0;;1:34.350;20.0;224.775;4;Collision
+2019-07-14;British Grand Prix;10;9;1019;24402;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;15;17;0;0.0;;1:29.456;7.0;237.072;11;+1 Lap
+2019-07-14;British Grand Prix;10;9;1019;24398;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;18;13;0;0.0;+1:21.086;1:29.390;6.0;237.248;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24393;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;12;8;0;4.0;+1:05.540;1:30.034;14.0;235.551;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24386;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;1;1;26.0;1:21:08.452;1:27.369;1.0;242.735;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24405;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;16;20;0;0.0;;1:33.425;19.0;227.00099999999998;4;Collision
+2019-07-14;British Grand Prix;10;9;1019;24388;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;3;3;0;15.0;+30.117;1:29.313;5.0;237.452;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24392;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;7;7;0;6.0;+54.401;1:29.624;9.0;236.628;1;Finished
+2019-07-14;British Grand Prix;10;9;1019;24400;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;20;15;0;0.0;;1:31.509;17.0;231.75400000000002;11;+1 Lap
+2019-07-28;German Grand Prix;11;10;1020;24418;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;11;13;0;0.0;+43.849;1:19.300;14.0;207.646;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24415;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;18;10;0;1.0;+24.987;1:19.062;13.0;208.271;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24414;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;1;9;0;2.0;+19.667;1:18.811;12.0;208.935;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24419;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;4;14;0;0.0;;1:17.495;4.0;212.483;4;Collision
+2019-07-28;German Grand Prix;11;10;1020;24408;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;14;3;0;15.0;+8.305;1:17.708;6.0;211.9;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24407;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;20;2;0;18.0;+7.333;1:16.794;2.0;214.423;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24421;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;9;16;0;0.0;;1:29.576;17.0;183.826;3;Accident
+2019-07-28;German Grand Prix;11;10;1020;24425;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;8;20;0;0.0;;;0.0;;20;Spun off
+2019-07-28;German Grand Prix;11;10;1020;24409;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;15;4;0;12.0;+8.966;1:17.831;8.0;211.56599999999997;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24406;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;2;1;1;26.0;1:44:31.275;1:16.645;1.0;214.83900000000003;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24417;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;5;12;0;0.0;+42.214;1:19.563;15.0;206.96;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24412;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;6;7;0;6.0;+16.838;1:17.746;7.0;211.797;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24420;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;3;15;0;0.0;;1:18.272;11.0;210.37400000000002;3;Accident
+2019-07-28;German Grand Prix;11;10;1020;24424;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;13;19;0;0.0;;1:32.654;19.0;177.71900000000002;43;Exhaust
+2019-07-28;German Grand Prix;11;10;1020;24423;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;19;18;0;0.0;;1:31.081;18.0;180.78799999999998;75;Power loss
+2019-07-28;German Grand Prix;11;10;1020;24416;3;Williams;British;847;RUS;George;Russell;63.0;British;17;11;0;0.0;+26.404;1:17.485;3.0;212.51;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24410;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;7;5;0;10.0;+9.583;1:17.841;9.0;211.53799999999998;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24422;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;10;17;0;0.0;;1:27.697;16.0;187.764;3;Accident
+2019-07-28;German Grand Prix;11;10;1020;24413;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;12;8;0;4.0;+18.765;1:17.507;5.0;212.45;1;Finished
+2019-07-28;German Grand Prix;11;10;1020;24411;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;16;6;0;8.0;+10.052;1:17.850;10.0;211.514;1;Finished
+2019-08-04;Hungarian Grand Prix;12;11;1021;24434;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;7;9;0;2.0;;1:21.188;13.0;194.26;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24426;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;3;1;1;25.0;1:35:03.796;1:18.528;2.0;200.84;1;Finished
+2019-08-04;Hungarian Grand Prix;12;11;1021;24442;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;18;17;0;0.0;;1:20.603;6.0;195.67;12;+2 Laps
+2019-08-04;Hungarian Grand Prix;12;11;1021;24443;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;17;18;0;0.0;;1:23.134;19.0;189.71200000000002;12;+2 Laps
+2019-08-04;Hungarian Grand Prix;12;11;1021;24431;9;Red Bull;Austrian;842;GAS;Pierre;Gasly;10.0;French;6;6;0;8.0;;1:21.045;12.0;194.602;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24429;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;4;4;0;12.0;+1:05.250;1:20.493;5.0;195.937;1;Finished
+2019-08-04;Hungarian Grand Prix;12;11;1021;24437;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;11;12;0;0.0;;1:21.650;14.0;193.16099999999997;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24435;5;Toro Rosso;Italian;848;ALB;Alexander;Albon;23.0;Thai;12;10;0;1.0;;1:20.621;7.0;195.62599999999998;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24441;3;Williams;British;847;RUS;George;Russell;63.0;British;15;16;0;0.0;;1:22.386;17.0;191.435;12;+2 Laps
+2019-08-04;Hungarian Grand Prix;12;11;1021;24432;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;10;7;0;6.0;;1:20.880;9.0;195.0;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24428;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;5;3;0;15.0;+1:01.433;1:19.786;4.0;197.673;1;Finished
+2019-08-04;Hungarian Grand Prix;12;11;1021;24445;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;9;20;0;0.0;;1:22.809;18.0;190.457;34;Water pressure
+2019-08-04;Hungarian Grand Prix;12;11;1021;24433;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;2;8;0;4.0;;1:19.331;3.0;198.80700000000002;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24430;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;8;5;0;10.0;;1:21.002;10.0;194.706;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24436;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;16;11;0;0.0;;1:21.734;15.0;192.96200000000002;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24444;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;19;19;0;0.0;;1:23.436;20.0;189.02599999999998;13;+3 Laps
+2019-08-04;Hungarian Grand Prix;12;11;1021;24438;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;14;13;0;0.0;;1:21.008;11.0;194.69099999999997;11;+1 Lap
+2019-08-04;Hungarian Grand Prix;12;11;1021;24427;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;1;2;0;19.0;+17.796;1:17.103;1.0;204.55200000000002;1;Finished
+2019-08-04;Hungarian Grand Prix;12;11;1021;24440;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;13;15;0;0.0;;1:21.932;16.0;192.49599999999998;12;+2 Laps
+2019-08-04;Hungarian Grand Prix;12;11;1021;24439;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;20;14;0;0.0;;1:20.839;8.0;195.09799999999998;11;+1 Lap
+2019-09-01;Belgian Grand Prix;13;13;1022;24455;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;16;10;0;1.0;+1:49.838;1:48.357;10.0;232.697;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24454;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;13;9;0;2.0;+1:49.168;1:49.700;17.0;229.84799999999998;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24450;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;17;5;0;10.0;+1:21.325;1:47.507;5.0;234.537;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24458;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;9;13;0;0.0;;1:49.274;16.0;230.74400000000003;11;+1 Lap
+2019-09-01;Belgian Grand Prix;13;13;1022;24448;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;4;3;0;15.0;+12.585;1:46.465;2.0;236.832;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24460;3;Williams;British;847;RUS;George;Russell;63.0;British;14;15;0;0.0;;1:48.860;14.0;231.622;11;+1 Lap
+2019-09-01;Belgian Grand Prix;13;13;1022;24459;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;10;14;0;0.0;;1:50.451;18.0;228.285;11;+1 Lap
+2019-09-01;Belgian Grand Prix;13;13;1022;24446;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;1;1;1;25.0;1:23:45.710;1:46.664;4.0;236.39;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24451;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;7;6;0;8.0;+1:24.448;1:48.781;13.0;231.79;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24462;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;0;17;0;0.0;;1:49.220;15.0;230.858;11;+1 Lap
+2019-09-01;Belgian Grand Prix;13;13;1022;24456;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;11;11;0;0.0;;1:48.321;8.0;232.774;5;Engine
+2019-09-01;Belgian Grand Prix;13;13;1022;24452;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;19;7;0;6.0;+1:29.657;1:48.143;7.0;233.157;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24463;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;18;18;0;0.0;;1:47.560;6.0;234.421;3;Accident
+2019-09-01;Belgian Grand Prix;13;13;1022;24465;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;5;20;0;0.0;;;0.0;;3;Accident
+2019-09-01;Belgian Grand Prix;13;13;1022;24449;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;2;4;0;13.0;+26.422;1:46.409;1.0;236.957;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24457;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;8;12;0;0.0;;1:48.677;11.0;232.012;11;+1 Lap
+2019-09-01;Belgian Grand Prix;13;13;1022;24464;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;15;19;0;0.0;;;0.0;;75;Power loss
+2019-09-01;Belgian Grand Prix;13;13;1022;24447;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;3;2;0;18.0;+0.981;1:46.580;3.0;236.577;1;Finished
+2019-09-01;Belgian Grand Prix;13;13;1022;24461;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;6;16;0;0.0;;1:48.753;12.0;231.85;11;+1 Lap
+2019-09-01;Belgian Grand Prix;13;13;1022;24453;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;12;8;0;4.0;+1:46.639;1:48.349;9.0;232.71400000000003;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24483;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;11;18;0;0.0;;1:24.443;14.0;246.968;9;Hydraulics
+2019-09-08;Italian Grand Prix;14;14;1023;24481;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;13;16;0;0.0;;1:24.985;17.0;245.393;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24472;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;18;7;0;6.0;+1:13.802;1:23.770;9.0;248.953;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24473;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;19;8;0;4.0;+1:14.492;1:23.143;5.0;250.83;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24482;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;15;17;0;0.0;;1:24.989;18.0;245.382;12;+2 Laps
+2019-09-08;Italian Grand Prix;14;14;1023;24476;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;17;11;0;0.0;;1:23.885;10.0;248.611;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24477;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;9;12;0;0.0;;1:24.165;12.0;247.78400000000002;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24474;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;10;9;0;2.0;;1:24.503;15.0;246.793;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24470;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;6;5;0;10.0;+58.165;1:23.641;8.0;249.33700000000002;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24467;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;3;2;0;18.0;+0.835;1:22.859;3.0;251.69;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24471;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;8;6;0;8.0;+59.315;1:23.364;6.0;250.165;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24478;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;4;13;0;0.0;;1:22.799;2.0;251.872;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24475;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;16;10;0;1.0;;1:24.044;11.0;248.141;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24469;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;5;4;0;12.0;+45.515;1:23.466;7.0;249.859;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24468;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;3;0;16.0;+35.199;1:21.779;1.0;255.014;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24479;3;Williams;British;847;RUS;George;Russell;63.0;British;14;14;0;0.0;;1:24.842;16.0;245.80700000000002;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24466;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;1;1;1;25.0;1:15:26.665;1:23.009;4.0;251.235;1;Finished
+2019-09-08;Italian Grand Prix;14;14;1023;24484;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;12;19;0;0.0;;1:25.772;20.0;243.142;5;Engine
+2019-09-08;Italian Grand Prix;14;14;1023;24480;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;0;15;0;0.0;;1:24.419;13.0;247.03900000000002;11;+1 Lap
+2019-09-08;Italian Grand Prix;14;14;1023;24485;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;7;20;0;0.0;;1:25.637;19.0;243.525;36;Wheel
+2019-09-22;Singapore Grand Prix;15;15;1024;24499;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;20;14;0;0.0;+37.660;1:45.915;14.0;172.088;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24490;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;5;5;0;10.0;+6.119;1:43.534;2.0;176.046;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24496;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;17;11;0;0.0;+35.436;1:46.274;16.0;171.507;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24493;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;11;8;0;4.0;+15.547;1:45.769;13.0;172.326;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24494;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;8;9;0;2.0;+16.718;1:45.765;12.0;172.333;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24505;3;Williams;British;847;RUS;George;Russell;63.0;British;18;20;0;0.0;;1:48.285;20.0;168.322;4;Collision
+2019-09-22;Singapore Grand Prix;15;15;1024;24504;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;15;19;0;0.0;;1:46.683;17.0;170.85;5;Engine
+2019-09-22;Singapore Grand Prix;15;15;1024;24489;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;4;0;12.0;+4.608;1:44.914;7.0;173.73;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24486;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;3;1;1;25.0;1:58:33.667;1:44.802;5.0;173.916;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24492;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;9;7;0;6.0;+14.769;1:45.716;11.0;172.412;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24488;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;4;3;0;15.0;+3.821;1:45.176;8.0;173.298;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24501;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;19;16;0;0.0;+47.024;1:46.793;18.0;170.674;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24491;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;6;6;0;8.0;+11.663;1:45.260;9.0;173.15900000000002;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24502;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;13;17;0;0.0;+1:26.522;1:42.301;1.0;178.168;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24487;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;1;2;0;18.0;+2.641;1:44.723;4.0;174.047;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24497;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;7;12;0;0.0;+35.974;1:45.969;15.0;172.00099999999998;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24500;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;14;15;0;0.0;+38.178;1:44.371;3.0;174.63400000000001;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24495;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;10;10;0;1.0;+27.855;1:45.630;10.0;172.553;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24498;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;16;13;0;0.0;+36.419;1:44.896;6.0;173.76;1;Finished
+2019-09-22;Singapore Grand Prix;15;15;1024;24503;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;12;18;0;0.0;;1:47.062;19.0;170.245;4;Collision
+2019-09-29;Russian Grand Prix;16;71;1025;24521;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;18;16;0;0.0;;1:42.327;19.0;205.74;23;Brakes
+2019-09-29;Russian Grand Prix;16;71;1025;24507;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;4;2;0;18.0;+3.829;1:36.316;3.0;218.58;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24522;3;Williams;British;847;RUS;George;Russell;63.0;British;17;17;0;0.0;;1:41.705;18.0;206.998;23;Brakes
+2019-09-29;Russian Grand Prix;16;71;1025;24524;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;10;19;0;0.0;;1:41.284;17.0;207.859;4;Collision
+2019-09-29;Russian Grand Prix;16;71;1025;24519;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;16;14;0;0.0;+1:10.076;1:38.606;14.0;213.50400000000002;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24525;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;8;20;0;0.0;;;0.0;;4;Collision
+2019-09-29;Russian Grand Prix;16;71;1025;24517;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;19;12;0;0.0;+1:02.496;1:38.228;9.0;214.325;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24506;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;2;1;1;26.0;1:33:38.992;1:35.761;1.0;219.847;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24518;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;15;13;0;0.0;+1:08.910;1:38.589;13.0;213.541;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24508;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;1;3;0;15.0;+5.212;1:36.193;2.0;218.86;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24516;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;14;11;0;0.0;+1:00.821;1:38.611;15.0;213.493;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24514;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;13;9;0;2.0;+58.779;1:38.130;8.0;214.53900000000002;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24515;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;6;10;0;1.0;+59.841;1:38.519;12.0;213.692;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24511;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;5;6;0;8.0;+45.889;1:38.020;6.0;214.78;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24510;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;0;5;0;10.0;+38.348;1:36.762;4.0;217.57299999999998;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24513;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;7;8;0;4.0;+57.749;1:38.301;11.0;214.166;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24520;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;12;15;0;0.0;+1:13.346;1:38.696;16.0;213.30900000000003;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24512;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;11;7;0;6.0;+48.728;1:38.043;7.0;214.73;1;Finished
+2019-09-29;Russian Grand Prix;16;71;1025;24523;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;3;18;0;0.0;;1:38.245;10.0;214.28799999999998;75;Power loss
+2019-09-29;Russian Grand Prix;16;71;1025;24509;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;9;4;0;12.0;+14.210;1:36.937;5.0;217.18;1;Finished
+2019-10-13;Japanese Grand Prix;17;22;1026;24527;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;1;2;0;18.0;+13.343;1:32.122;5.0;226.929;1;Finished
+2019-10-13;Japanese Grand Prix;17;22;1026;24544;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;16;19;0;0.0;;1:36.332;19.0;217.012;2;Disqualified
+2019-10-13;Japanese Grand Prix;17;22;1026;24541;3;Williams;British;847;RUS;George;Russell;63.0;British;18;16;0;0.0;;1:32.369;6.0;226.322;12;+2 Laps
+2019-10-13;Japanese Grand Prix;17;22;1026;24532;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;9;7;0;6.0;;1:31.611;2.0;228.195;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24543;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;5;18;0;0.0;;1:35.458;18.0;218.998;23;Brakes
+2019-10-13;Japanese Grand Prix;17;22;1026;24538;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;10;13;0;0.0;;1:34.116;13.0;222.12099999999998;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24545;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;15;20;0;0.0;;1:37.249;20.0;214.965;2;Disqualified
+2019-10-13;Japanese Grand Prix;17;22;1026;24536;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;8;11;0;0.0;;1:34.713;14.0;220.72099999999998;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24530;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;7;5;0;10.0;+1:09.101;1:33.563;12.0;223.43400000000003;1;Finished
+2019-10-13;Japanese Grand Prix;17;22;1026;24535;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;14;10;0;1.0;;1:34.921;15.0;220.237;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24529;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;6;4;0;12.0;+59.537;1:32.775;8.0;225.332;1;Finished
+2019-10-13;Japanese Grand Prix;17;22;1026;24539;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;11;14;0;0.0;;1:33.190;9.0;224.328;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24537;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;13;12;0;0.0;;1:33.239;10.0;224.21;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24531;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;2;6;0;8.0;;1:33.481;11.0;223.63;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24534;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;12;9;0;2.0;;1:32.621;7.0;225.706;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24528;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;4;3;0;16.0;+13.858;1:30.983;1.0;229.77;1;Finished
+2019-10-13;Japanese Grand Prix;17;22;1026;24540;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;19;15;0;0.0;;1:34.988;16.0;220.082;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24533;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;17;8;0;4.0;;1:35.321;17.0;219.313;11;+1 Lap
+2019-10-13;Japanese Grand Prix;17;22;1026;24526;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;3;1;1;25.0;1:21:46.755;1:31.862;4.0;227.571;1;Finished
+2019-10-13;Japanese Grand Prix;17;22;1026;24542;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;0;17;0;0.0;;1:31.732;3.0;227.894;12;+2 Laps
+2019-10-27;Mexican Grand Prix;18;32;1027;24549;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;1;4;0;13.0;+6.368;1:19.232;1.0;195.55700000000002;1;Finished
+2019-10-27;Mexican Grand Prix;18;32;1027;24550;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;5;5;0;10.0;+21.399;1:19.325;2.0;195.328;1;Finished
+2019-10-27;Mexican Grand Prix;18;32;1027;24565;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;8;20;0;0.0;;1:21.643;19.0;189.782;54;Withdrew
+2019-10-27;Mexican Grand Prix;18;32;1027;24560;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;17;15;0;0.0;;1:21.682;20.0;189.69099999999997;12;+2 Laps
+2019-10-27;Mexican Grand Prix;18;32;1027;24562;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;18;17;0;0.0;;1:21.581;18.0;189.926;12;+2 Laps
+2019-10-27;Mexican Grand Prix;18;32;1027;24546;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;3;1;1;25.0;1:36:48.904;1:19.461;4.0;194.993;1;Finished
+2019-10-27;Mexican Grand Prix;18;32;1027;24547;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;2;2;0;18.0;+1.766;1:19.381;3.0;195.19;1;Finished
+2019-10-27;Mexican Grand Prix;18;32;1027;24558;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;7;13;0;0.0;;1:20.311;10.0;192.929;11;+1 Lap
+2019-10-27;Mexican Grand Prix;18;32;1027;24564;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;14;19;0;0.0;;1:20.082;8.0;193.481;25;Overheating
+2019-10-27;Mexican Grand Prix;18;32;1027;24553;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;13;8;0;4.0;+1:14.924;1:20.146;9.0;193.327;1;Finished
+2019-10-27;Mexican Grand Prix;18;32;1027;24551;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;4;6;0;8.0;+1:08.807;1:20.406;11.0;192.702;1;Finished
+2019-10-27;Mexican Grand Prix;18;32;1027;24552;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;11;7;0;6.0;+1:13.819;1:20.485;12.0;192.512;1;Finished
+2019-10-27;Mexican Grand Prix;18;32;1027;24556;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;9;11;0;0.0;;1:19.905;7.0;193.91;11;+1 Lap
+2019-10-27;Mexican Grand Prix;18;32;1027;24561;3;Williams;British;847;RUS;George;Russell;63.0;British;19;16;0;0.0;;1:21.286;17.0;190.615;12;+2 Laps
+2019-10-27;Mexican Grand Prix;18;32;1027;24559;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;15;14;0;0.0;;1:21.014;16.0;191.255;11;+1 Lap
+2019-10-27;Mexican Grand Prix;18;32;1027;24554;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;10;9;0;2.0;;1:19.530;6.0;194.824;11;+1 Lap
+2019-10-27;Mexican Grand Prix;18;32;1027;24557;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;16;12;0;0.0;;1:20.922;15.0;191.47299999999998;11;+1 Lap
+2019-10-27;Mexican Grand Prix;18;32;1027;24563;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;20;18;0;0.0;;1:20.696;13.0;192.00900000000001;12;+2 Laps
+2019-10-27;Mexican Grand Prix;18;32;1027;24555;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;12;10;0;1.0;;1:20.791;14.0;191.783;11;+1 Lap
+2019-10-27;Mexican Grand Prix;18;32;1027;24548;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;6;3;0;15.0;+3.553;1:19.494;5.0;194.912;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24585;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;2;20;0;0.0;;1:42.165;19.0;194.262;22;Suspension
+2019-11-03;United States Grand Prix;19;69;1028;24566;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;1;1;1;25.0;1:33:55.653;1:36.957;2.0;204.696;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24577;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;13;12;0;0.0;;1:38.969;8.0;200.535;11;+1 Lap
+2019-11-03;United States Grand Prix;19;69;1028;24569;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;4;4;0;13.0;+52.239;1:36.169;1.0;206.37400000000002;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24572;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;8;7;0;6.0;+1:30.764;1:38.074;4.0;202.365;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24567;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;5;2;0;18.0;+4.148;1:38.446;7.0;201.6;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24574;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;11;9;0;2.0;;1:38.437;6.0;201.61900000000003;11;+1 Lap
+2019-11-03;United States Grand Prix;19;69;1028;24580;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;15;15;0;0.0;;1:41.270;18.0;195.979;11;+1 Lap
+2019-11-03;United States Grand Prix;19;69;1028;24584;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;19;19;0;0.0;;1:43.830;20.0;191.14700000000002;44;Oil leak
+2019-11-03;United States Grand Prix;19;69;1028;24581;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;10;16;0;0.0;;1:40.850;16.0;196.795;22;Suspension
+2019-11-03;United States Grand Prix;19;69;1028;24583;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;12;18;0;0.0;;1:40.347;12.0;197.78099999999998;23;Brakes
+2019-11-03;United States Grand Prix;19;69;1028;24582;3;Williams;British;847;RUS;George;Russell;63.0;British;18;17;0;0.0;;1:41.239;17.0;196.03900000000002;12;+2 Laps
+2019-11-03;United States Grand Prix;19;69;1028;24568;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;3;3;0;15.0;+5.002;1:38.214;5.0;202.077;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24571;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;9;6;0;8.0;+1:30.366;1:40.564;14.0;197.354;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24576;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;17;11;0;0.0;;1:39.608;9.0;199.24900000000002;11;+1 Lap
+2019-11-03;United States Grand Prix;19;69;1028;24573;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;7;8;0;4.0;;1:40.844;15.0;196.80599999999998;11;+1 Lap
+2019-11-03;United States Grand Prix;19;69;1028;24575;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;0;10;0;1.0;;1:40.165;11.0;198.141;11;+1 Lap
+2019-11-03;United States Grand Prix;19;69;1028;24579;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;16;14;0;0.0;;1:39.964;10.0;198.53900000000002;11;+1 Lap
+2019-11-03;United States Grand Prix;19;69;1028;24570;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;6;5;0;10.0;+1:18.038;1:38.029;3.0;202.458;1;Finished
+2019-11-03;United States Grand Prix;19;69;1028;24578;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;14;13;0;0.0;;1:40.380;13.0;197.71599999999998;11;+1 Lap
+2019-11-17;Brazilian Grand Prix;20;18;1029;24605;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;4;20;0;0.0;;1:10.698;1.0;219.417;131;Power Unit
+2019-11-17;Brazilian Grand Prix;20;18;1029;24597;3;Williams;British;847;RUS;George;Russell;63.0;British;18;12;0;0.0;+13.599;1:13.752;19.0;210.331;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24588;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;20;3;0;15.0;+8.896;1:13.158;16.0;212.03900000000002;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24599;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;5;14;0;0.0;+14.927;1:11.087;4.0;218.217;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24589;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;8;4;0;12.0;+9.452;1:13.135;15.0;212.106;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24603;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;14;18;0;0.0;;1:11.423;6.0;217.19;4;Collision
+2019-11-17;Brazilian Grand Prix;20;18;1029;24598;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;7;13;0;0.0;+14.247;1:13.619;18.0;210.71099999999998;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24604;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;17;19;0;0.0;;1:12.603;10.0;213.66;22;Suspension
+2019-11-17;Brazilian Grand Prix;20;18;1029;24592;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;3;7;0;6.0;+11.139;1:11.082;3.0;218.232;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24594;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;15;9;0;2.0;+11.529;1:12.840;12.0;212.965;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24602;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;2;17;0;0.0;;1:11.384;5.0;217.30900000000003;4;Collision
+2019-11-17;Brazilian Grand Prix;20;18;1029;24600;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;13;15;0;0.0;+18.059;1:12.934;13.0;212.69;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24593;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;10;8;0;4.0;+11.204;1:12.328;7.0;214.472;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24586;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;1;1;1;25.0;1:33:14.678;1:10.862;2.0;218.90900000000002;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24595;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;16;10;0;1.0;+11.931;1:12.385;8.0;214.304;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24601;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;19;16;0;0.0;;1:14.553;20.0;208.072;11;+1 Lap
+2019-11-17;Brazilian Grand Prix;20;18;1029;24591;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;11;6;0;8.0;+10.541;1:12.733;11.0;213.278;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24596;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;9;11;0;0.0;+12.732;1:13.262;17.0;211.738;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24590;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;12;5;0;10.0;+10.201;1:13.020;14.0;212.44;1;Finished
+2019-11-17;Brazilian Grand Prix;20;18;1029;24587;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;6;2;0;18.0;+6.077;1:12.425;9.0;214.185;1;Finished
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24615;1;McLaren;British;832;SAI;Carlos;Sainz;55.0;Spanish;8;10;0;1.0;;1:41.294;7.0;197.389;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24617;4;Renault;French;807;HUL;Nico;Hülkenberg;27.0;German;9;12;0;0.0;;1:43.274;16.0;193.605;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24619;210;Haas F1 Team;American;825;MAG;Kevin;Magnussen;20.0;Danish;14;14;0;0.0;;1:43.790;19.0;192.642;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24620;210;Haas F1 Team;American;154;GRO;Romain;Grosjean;8.0;French;15;15;0;0.0;;1:43.666;18.0;192.873;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24623;5;Toro Rosso;Italian;842;GAS;Pierre;Gasly;10.0;French;11;18;0;0.0;;1:42.414;10.0;195.231;12;+2 Laps
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24607;9;Red Bull;Austrian;830;VER;Max;Verstappen;33.0;Dutch;2;2;0;18.0;+16.772;1:41.119;5.0;197.731;1;Finished
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24621;51;Alfa Romeo;Italian;841;GIO;Antonio;Giovinazzi;99.0;Italian;16;16;0;0.0;;1:43.256;15.0;193.639;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24612;211;Racing Point;British;815;PER;Sergio;Pérez;11.0;Mexican;10;7;0;6.0;;1:42.639;11.0;194.803;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24624;3;Williams;British;9;KUB;Robert;Kubica;88.0;Polish;19;19;0;0.0;;1:44.500;20.0;191.333;12;+2 Laps
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24616;4;Renault;French;817;RIC;Daniel;Ricciardo;3.0;Australian;7;11;0;0.0;;1:41.190;6.0;197.592;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24622;3;Williams;British;847;RUS;George;Russell;63.0;British;18;17;0;0.0;;1:43.074;13.0;193.981;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24625;211;Racing Point;British;840;STR;Lance;Stroll;18.0;Canadian;12;20;0;0.0;;1:43.326;17.0;193.507;23;Brakes
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24618;51;Alfa Romeo;Italian;8;RAI;Kimi;Räikkönen;7.0;Finnish;17;13;0;0.0;;1:43.142;14.0;193.85299999999998;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24611;9;Red Bull;Austrian;848;ALB;Alexander;Albon;23.0;Thai;5;6;0;8.0;+1:09.205;1:42.219;8.0;195.60299999999998;1;Finished
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24610;6;Ferrari;Italian;20;VET;Sebastian;Vettel;5.0;German;4;5;0;10.0;+1:04.357;1:40.128;3.0;199.688;1;Finished
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24614;5;Toro Rosso;Italian;826;KVY;Daniil;Kvyat;26.0;Russian;13;9;0;2.0;;1:42.222;9.0;195.597;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24613;1;McLaren;British;846;NOR;Lando;Norris;4.0;British;6;8;0;4.0;;1:43.026;12.0;194.071;11;+1 Lap
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24609;131;Mercedes;German;822;BOT;Valtteri;Bottas;77.0;Finnish;20;4;0;12.0;+44.379;1:39.715;2.0;200.515;1;Finished
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24606;131;Mercedes;German;1;HAM;Lewis;Hamilton;44.0;British;1;1;1;26.0;1:34:05.715;1:39.283;1.0;201.387;1;Finished
+2019-12-01;Abu Dhabi Grand Prix;21;24;1030;24608;6;Ferrari;Italian;844;LEC;Charles;Leclerc;16.0;Monegasque;3;3;0;15.0;+43.435;1:40.442;4.0;199.06400000000002;1;Finished
